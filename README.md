@@ -1,5 +1,4 @@
 # hello-world
-Git Test
 
 Hi y'all!
 
